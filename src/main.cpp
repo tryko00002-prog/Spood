@@ -5,6 +5,7 @@ void setup() {
  Serial.println("tel maganda");
  Serial.println("Spooderman");
  Serial.println("nigga katabi ko sa kanan");
+ Serial.println("daniel matsunigga");
 }
 
 void loop() {
